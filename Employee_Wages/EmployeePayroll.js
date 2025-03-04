@@ -77,7 +77,7 @@ class EmployeePayroll {
 }
 
 // Example Usage
-const emp1 = new EmployeePayroll(101, "Anand", 5000, "M", "2023-05-10");  
+const emp1 = new EmployeePayroll(101, "Deepak", 5000, "M", "2023-05-10");  
 const emp2 = new EmployeePayroll(-5, "Ankit", 7000, "F", "2022-11-15"); 
 const emp3 = new EmployeePayroll(103, "saurabh", -3000, "M", "2024-01-20"); 
 const emp4 = new EmployeePayroll(104, "Ananya", 6000, "X", "2023-06-01"); 
